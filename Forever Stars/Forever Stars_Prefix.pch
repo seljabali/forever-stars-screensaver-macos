@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'Forever Stars' target in the 'Forever Stars' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <AppKit/AppKit.h>
+#endif
