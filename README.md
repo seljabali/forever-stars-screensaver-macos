@@ -2,7 +2,7 @@
 <p align="center">Classic Windows Starfield Screensaver done by <a href="https://www.opanoid.com/source-code/">Opanoid</a>.</p>
 
 <p align="center">
-<img src="https://github.com/seljabali/forever-stars/blob/main/screen-shots/stars.gif?raw=true" alt="" data-canonical-src="" />
+<img src="https://github.com/seljabali/forever-stars/blob/master/screen-shots/stars.gif?raw=true" alt="" data-canonical-src="" />
 </p>
 </br>
-Project aims at porting it over into Swift.
+Project's aim is to port over source code to Swift, as well as, have it working on Big Sur.
